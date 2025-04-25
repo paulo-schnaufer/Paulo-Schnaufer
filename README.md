@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on a trilogy of books. My perfectionism doesn't let me finish them, but I'm working on them to release the first one in the next 10 years.
-- 🌱 I’m currently learning how to program and rollerblade!
-- 👯 I’m looking to collaborate on otimization of codes, as that is the most interesting process on the programming subject, at least for me.
-- ⚡ Fun fact: I'm looking forward to move from my country to Canada or the USA, so that I can be a programmer, and, in the future, movies director! I love to tell stories, and I'm very meticulous, so I think this would be a wonderful experience.
+- 🔭 I’m currently working on a trilogy of books. My perfectionism makes it hard to finish them, but I'm aiming to release the first one within the next 10 years.
+- 🌱 I’m currently learning programming and how to rollerblade!
+- 👯 I’m looking to collaborate on code optimization — it’s the most fascinating part of programming to me.
+- ⚡ Fun fact: I’m planning to move to Canada or the USA to work as a programmer and, eventually, become a film director! I love storytelling and I’m very detail-oriented, so I believe it would be an amazing journey.
