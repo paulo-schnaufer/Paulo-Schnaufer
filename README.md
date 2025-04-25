@@ -1,5 +1,31 @@
-## Hi there 👋
-- 🔭 I’m currently working on a trilogy of books. My perfectionism makes it hard to finish them, but I'm aiming to release the first one within the next 10 years.
-- 🌱 I’m currently learning programming and how to rollerblade!
-- 👯 I’m looking to collaborate on code optimization — it’s the most fascinating part of programming to me.
-- ⚡ Fun fact: I’m planning to move to Canada or the USA to work as a programmer and, eventually, become a film director! I love storytelling and I’m very detail-oriented, so I believe it would be an amazing journey.
+## Hi there! I'm Paulo 👋  
+Welcome to my GitHub profile!
+
+![Profile views](https://komarev.com/ghpvc/?username=Novavetwo&color=blue)
+
+---
+
+### 🔭 Currently Working On
+A **trilogy of books** — I'm a perfectionist, so it's a long journey, but I plan to release the first one in the next 10 years.
+
+### 🌱 Currently Learning
+- Programming (especially code **optimization** — it's what fascinates me the most!)
+- How to rollerblade!
+
+### 👯 Looking to Collaborate On
+- Clean and optimized code projects
+- Anything involving creative storytelling through tech
+
+### ⚡ Fun Fact
+I'm planning to move to **Canada or the USA** to become a programmer — and in the future, a **film director**!  
+I love telling stories and I'm incredibly detail-oriented, so I believe filmmaking will be a perfect fit.
+
+---
+
+### Let's connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/paulo-schnaufer)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pauloschnaufer@gmail.com)
+
+---
+
+*“The details are not the details. They make the design.” – Charles Eames*
