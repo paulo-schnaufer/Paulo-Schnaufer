@@ -1,26 +1,56 @@
-## Hi there! I'm Paulo 👋  
+## Hi there! I'm Paul 👋
 Welcome to my GitHub profile!  
-Bachelor's Degree in Computer Science — UEM-PR, Brazil (3/8)
+🎓 Bachelor's in Computer Science — UEM-PR, Brazil (3rd of 8 semesters)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Novavetwo&color=blue)
 
 ---
 
-### 🔭 Currently Working On
-A **trilogy of books** — I’m currently working on a trilogy of books. My perfectionism makes it hard to finish them, but I'm aiming to release the first one within the next 10 years.
+### 🔭 What I'm Working On
+
+- 📚 A **trilogy of novels** — I'm working on a deeply personal literary trilogy. It's a long-term endeavor shaped by my perfectionism and passion for storytelling. My aim is to publish the first volume within the next decade.
+- 🧪 A **scientific research project** — Soon, I'll be starting a year-long project focused on **code optimization and benchmarking** in large-scale, real-world software systems.
+
+---
+
+### 💻 Tech Stack & Languages
+
+- **Programming**: Python, C, C#, Java, JavaScript  
+- **Web**: HTML, CSS, Markdown  
+- **Tools**: Git, VS Code, Linux, Unity (basic)
+
+---
+
+### 🌍 Languages I Speak
+
+- 🇧🇷 Portuguese (native)  
+- 🇺🇸 English (fluent)  
+- 🇫🇷 French (learning)  
+- 🇪🇸 Spanish (learning)
+
+🎯 *I'm on a path to master 11 languages as part of a lifelong commitment to communication, culture, and teaching.*
+
+---
 
 ### 🌱 Currently Learning
-- Programming (especially code **optimization** — it fascinates me!)
-- How to rollerblade!
-- Storytelling — through words, sound, and images
+- Code performance and optimization 🚀  
+- Rollerblading 🛼  
+- Creative storytelling (written, visual and auditory)  
+- French and Spanish  
+- Long-term investing and personal finance 💰
 
-### 👯 Looking to Collaborate On
-- Clean and optimized code projects  
-- Creative storytelling projects that blend technology and narrative
+---
+
+### 👯 Open to Collaborate On
+- Code cleaning and performance tuning  
+- Narrative-driven or educational software  
+- Projects that blend **technology + art**
+
+---
 
 ### ⚡ Fun Fact
-I'm planning to move to **Canada or the USA** to work as a programmer — and eventually become a **film director**!  
-I love telling stories and I'm incredibly detail-oriented, so I believe filmmaking will be a perfect fit.
+I'm planning to move to **Canada or the USA** to work as a software developer — and eventually become a **film director**.  
+Detail is my language. Whether in code or cinema, I want to build immersive, meaningful experiences.
 
 ---
 
@@ -40,4 +70,4 @@ I love telling stories and I'm incredibly detail-oriented, so I believe filmmaki
 
 ---
 
-*“The details are not the details. They make the design.” – Charles Eames*
+> *“The details are not the details. They make the design.” – Charles Eames*
