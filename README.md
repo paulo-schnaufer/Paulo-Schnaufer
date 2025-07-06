@@ -2,7 +2,7 @@
 Welcome to my GitHub profile!  
 🎓 Bachelor's in Computer Science — UEM-PR, Brazil (3rd of 8 semesters)
 
-![Profile views](https://komarev.com/ghpvc/?username=Novavetwo&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=paul-schnaufer&color=blue)
 
 ---
 
@@ -56,11 +56,11 @@ Detail is my language. Whether in code or cinema, I want to build immersive, mea
 
 ### GitHub Stats
 
-![Novavetwo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Novavetwo&show_icons=true&theme=gruvbox&hide=issues&hide_title=true)
+![Novavetwo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paul-schnaufer&show_icons=true&theme=gruvbox&hide=issues&hide_title=true)
 
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Novavetwo&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paul-schnaufer&layout=compact&theme=gruvbox)
 
 ---
 
