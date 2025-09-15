@@ -1,4 +1,4 @@
-## Hi there! I'm Paul 👋
+## Hi there! I'm Paulo 👋
 Welcome to my GitHub profile!  
 🎓 Bachelor's in Computer Science — UEM-PR, Brazil (3rd of 8 semesters)
 
