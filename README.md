@@ -56,11 +56,11 @@ Detail is my language. Whether in code or cinema, I want to build immersive, mea
 
 ### GitHub Stats
 
-![Novavetwo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paul-schnaufer&show_icons=true&theme=gruvbox&hide=issues&hide_title=true)
+![Novavetwo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulo-schnaufer&show_icons=true&theme=gruvbox&hide=issues&hide_title=true)
 
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paul-schnaufer&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-schnaufer&layout=compact&theme=gruvbox)
 
 ---
 
