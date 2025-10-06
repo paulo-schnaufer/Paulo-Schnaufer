@@ -34,7 +34,7 @@ Welcome to my GitHub profile!
 
 ### 🌱 Currently Learning
 - Code performance and optimization 🚀  
-- Rollerblading 🛼  
+- Piano 🎹
 - Creative storytelling (written, visual and auditory)  
 - French and Spanish  
 - Long-term investing and personal finance 💰
