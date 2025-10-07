@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 ### 🔭 What I'm Working On
 
 - 📚 A **trilogy of novels** — I'm working on a deeply personal literary trilogy. It's a long-term endeavor shaped by my perfectionism and passion for storytelling. My aim is to publish the first volume within the next decade.
-- 🧪 A **scientific research project** — Soon, I'll be starting a year-long project focused on **code optimization and benchmarking** in large-scale, real-world software systems.
+- 🧪 A **scientific research project** — I'm working on a year-long project focused on **code optimization and benchmarking** in large-scale, real-world software systems.
 
 ---
 
