@@ -1,6 +1,6 @@
 ## Hi there! I'm Paulo 👋
 Welcome to my GitHub profile!  
-🎓 Bachelor's in Computer Science — UEM-PR, Brazil (4th of 8 semesters)
+🎓 Bachelor's in Computer Science — UEM-PR, Brazil (5th of 8 semesters)
 
 ![Profile views](https://komarev.com/ghpvc/?username=paul-schnaufer&color=blue)
 
