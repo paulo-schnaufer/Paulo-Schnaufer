@@ -15,7 +15,7 @@ Welcome to my GitHub profile!
 
 ### 💻 Tech Stack & Languages
 
-- **Programming**: Python, C, C#, Java, JavaScript  
+- **Programming**: Python, C#, Java
 - **Web**: HTML, CSS, Markdown  
 - **Tools**: Git, VS Code, Linux, Unity (basic)
 
@@ -25,10 +25,6 @@ Welcome to my GitHub profile!
 
 - 🇧🇷 Portuguese (native)  
 - 🇺🇸 English (fluent)  
-- 🇫🇷 French (learning)  
-- 🇪🇸 Spanish (learning)
-
-🎯 *I'm on a path to master 11 languages as part of a lifelong commitment to communication, culture, and teaching.*
 
 ---
 
@@ -36,7 +32,7 @@ Welcome to my GitHub profile!
 - Code performance and optimization 🚀  
 - Piano 🎹
 - Creative storytelling (written, visual and auditory)  
-- French and Spanish  
+- Boxing 
 - Long-term investing and personal finance 💰
 
 ---
@@ -49,8 +45,8 @@ Welcome to my GitHub profile!
 ---
 
 ### ⚡ Fun Fact
-I'm planning to move to **Canada or the USA** to work as a software developer — and eventually become a **film director**.  
-Detail is my language. Whether in code or cinema, I want to build immersive, meaningful experiences.
+I'm planning to move to **Canada or the USA** to work as a software developer, building excellent code, and pursuing Big Tech. 
+Detail is my language.
 
 ---
 
