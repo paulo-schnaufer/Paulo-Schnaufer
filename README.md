@@ -1,69 +1,67 @@
-## Hi there! I'm Paulo 👋
-Welcome to my GitHub profile!  
-🎓 Bachelor's in Computer Science — UEM-PR, Brazil (5th of 8 semesters)
+## Olá, eu sou o Paulo 👋
+Graduando em Ciência da Computação, UEM (5º de 8 períodos)
 
-![Profile views](https://komarev.com/ghpvc/?username=paul-schnaufer&color=blue)
-
----
-
-### 🔭 What I'm Working On
-
-- 📚 A **trilogy of novels** — I'm working on a deeply personal literary trilogy. It's a long-term endeavor shaped by my perfectionism and passion for storytelling. My aim is to publish the first volume within the next decade.
-- 🧪 A **scientific research project** — I'm working on a year-long project focused on **code optimization and benchmarking** in large-scale, real-world software systems.
+![Profile views](https://komarev.com/ghpvc/?username=paulo-schnaufer&color=blue)
 
 ---
 
-### 💻 Tech Stack & Languages
+### Em que estou trabalhando
 
-- **Programming**: Python, C#, Java
+- Iniciação científica com foco em **otimização de código e benchmarking** em sistemas reais
+- Desenvolvendo projetos com foco em **performance, organização e qualidade de código**
+
+---
+
+### 💻 Tecnologias
+
+- **Linguagens**: Python, C#, Java  
 - **Web**: HTML, CSS, Markdown  
-- **Tools**: Git, VS Code, Linux, Unity (basic)
+- **Ferramentas**: Git (versionamento), Linux, VS Code
+- **Fundamentos**: Estruturas de dados, algoritmos, complexidade (Big-O), boas práticas de engenharia de software  
 
 ---
 
-### 🌍 Languages I Speak
+### 🌍 Idiomas
 
-- 🇧🇷 Portuguese (native)  
-- 🇺🇸 English (fluent)  
-
----
-
-### 🌱 Currently Learning
-- Code performance and optimization 🚀  
-- Piano 🎹
-- Creative storytelling (written, visual and auditory)  
-- Boxing 
-- Long-term investing and personal finance 💰
+- Português (nativo)  
+- Inglês (fluente)
 
 ---
 
-### 👯 Open to Collaborate On
-- Code cleaning and performance tuning  
-- Narrative-driven or educational software  
-- Projects that blend **technology + art**
+### 🌱 Atualmente estudando
+
+- Performance e otimização de software  
+- Backend e construção de sistemas  
+- Arquitetura de software (nível introdutório)
+- Princípios de design e organização de sistemas 
 
 ---
 
-### ⚡ Fun Fact
-I'm planning to move to **Canada or the USA** to work as a software developer, building excellent code, and pursuing Big Tech. 
-Detail is my language.
+### 🤝 Aberto a colaborar
+
+- Otimização e melhoria de código  
+- Desenvolvimento backend  
+- Sistemas com foco em qualidade, clareza e manutenção  
+
+---
+
+### Objetivo
+
+Busco oportunidade como **Software Engineer (Backend / Desenvolvimento Geral)**, contribuindo na construção de sistemas eficientes, código limpo e soluções escaláveis.
 
 ---
 
 ### GitHub Stats
 
-![Novavetwo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulo-schnaufer&show_icons=true&theme=gruvbox&hide=issues&hide_title=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=paulo-schnaufer&show_icons=true&theme=gruvbox&hide=issues&hide_title=true)
 
-### Top Languages
+### Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-schnaufer&layout=compact&theme=gruvbox)
 
 ---
 
-### Let's connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/paulo-schnaufer)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pauloschnaufer@gmail.com)
+### 📫 Contato
 
----
-
-> *“The details are not the details. They make the design.” – Charles Eames*
+[LinkedIn](https://www.linkedin.com/in/paulo-schnaufer)  
+Email: pauloschnaufer@gmail.com
