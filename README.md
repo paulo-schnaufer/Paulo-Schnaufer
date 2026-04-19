@@ -8,16 +8,16 @@ Graduando em Ciência da Computação, UEM (5º de 8 períodos)
 ### Em que estou trabalhando
 
 - Iniciação científica com foco em **otimização de código e benchmarking** em sistemas reais
-- Desenvolvendo projetos com foco em **performance, organização e qualidade de código**
+- Desenvolvendo projetos com foco em **organização e qualidade de código**
 
 ---
 
 ### 💻 Tecnologias
 
-- **Linguagens**: Python, C#, Java  
-- **Web**: HTML, CSS, Markdown  
-- **Ferramentas**: Git (versionamento), Linux, VS Code
-- **Fundamentos**: Estruturas de dados, algoritmos, complexidade (Big-O), boas práticas de engenharia de software  
+- **Linguagem**: Python
+- **Web**: HTML, CSS
+- **Ferramentas**: Git (versionamento), Bash/Shell, Linux, VS Code/Zed, DBeaver
+- **Fundamentos**: Estruturas de dados e algoritmos, complexidade (big-O), system design
 
 ---
 
@@ -30,24 +30,24 @@ Graduando em Ciência da Computação, UEM (5º de 8 períodos)
 
 ### 🌱 Atualmente estudando
 
-- Performance e otimização de software  
+- Performance de software  
 - Backend e construção de sistemas  
-- Arquitetura de software (nível introdutório)
-- Princípios de design e organização de sistemas 
+- Princípios de design e organização de sistemas
+- Utilização integrada entre Python, FastAPI, PostgreSQL e Docker
 
 ---
 
 ### 🤝 Aberto a colaborar
 
-- Otimização e melhoria de código  
+- Refatoração e debugging de código  
 - Desenvolvimento backend  
-- Sistemas com foco em qualidade, clareza e manutenção  
+- Sistemas com foco em clareza e manutenção
 
 ---
 
 ### Objetivo
 
-Busco oportunidade como **Software Engineer (Backend / Desenvolvimento Geral)**, contribuindo na construção de sistemas eficientes, código limpo e soluções escaláveis.
+Busco oportunidade como **Software Engineer (Backend)**, contribuindo na construção de sistemas eficientes, código limpo e soluções escaláveis.
 
 ---
 
