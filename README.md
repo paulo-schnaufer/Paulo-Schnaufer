@@ -1,5 +1,5 @@
 ## Olá, eu sou o Paulo 👋
-Graduando em Ciência da Computação, UEM (5º de 8 períodos)
+Graduando em Ciência da Computação, UEM (6° de 8 períodos)
 
 ![Profile views](https://komarev.com/ghpvc/?username=paulo-schnaufer&color=blue)
 
