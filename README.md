@@ -1,4 +1,5 @@
 # Paulo Schnaufer
+
 **Desenvolvedor de Sistemas · Backend (Python, PostgreSQL, Odoo)**
 Ciência da Computação na UEM (6º de 8 períodos)
 
@@ -8,7 +9,7 @@ Me interesso por entender como decisões de implementação mudam o comportament
 
 ### Atualmente
 
-- **Have Consultoria**: desenvolvimento em Python sobre Odoo e PostgreSQL (remoto)
+- **Have Consultoria**: desenvolvimento em Python sobre Odoo e PostgreSQL, incluindo addons customizados (remoto)
 - **Iniciação científica (PIBIC/CNPq e Fundação Araucária)**: extração e transformação de dados em SQL sobre mais de 2.000 escolas públicas, com saída padronizada em XML para análise
 
 ---
