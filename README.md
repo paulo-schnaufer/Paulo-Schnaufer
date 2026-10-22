@@ -1,67 +1,42 @@
-## Olá, eu sou o Paulo 👋
-Graduando em Ciência da Computação, UEM (6° de 8 períodos)
+# Paulo Schnaufer
+**Desenvolvedor de Sistemas · Backend (Python, PostgreSQL, Odoo)**
+Ciência da Computação na UEM (6º de 8 períodos)
 
-![Profile views](https://komarev.com/ghpvc/?username=paulo-schnaufer&color=blue)
-
----
-
-### Em que estou trabalhando
-
-- Iniciação científica com foco em **otimização de código e benchmarking** em sistemas reais
-- Desenvolvendo projetos com foco em **organização e qualidade de código**
+Me interesso por entender como decisões de implementação mudam o comportamento de um sistema: desempenho, concorrência e escalabilidade.
 
 ---
 
-### 💻 Tecnologias
+### Atualmente
 
-- **Linguagem**: Python
-- **Web**: HTML, CSS
-- **Ferramentas**: Git (versionamento), Bash/Shell, Linux, VS Code/Zed, DBeaver
-- **Fundamentos**: Estruturas de dados e algoritmos, complexidade (big-O), system design
+- **Have Consultoria**: desenvolvimento em Python sobre Odoo e PostgreSQL (remoto)
+- **Iniciação científica (PIBIC/CNPq e Fundação Araucária)**: extração e transformação de dados em SQL sobre mais de 2.000 escolas públicas, com saída padronizada em XML para análise
 
 ---
 
-### 🌍 Idiomas
+### Projeto em destaque
 
-- Português (nativo)  
-- Inglês (fluente)
+#### [job-queue-api](https://github.com/paulo-schnaufer/job-queue-api) · [deploy](https://job-queue-api-wcex.onrender.com)
 
----
+API de fila de jobs em **FastAPI + PostgreSQL + Docker**, com worker em processo separado.
 
-### 🌱 Atualmente estudando
+- Autenticação por API key, com `client_id` vindo apenas do cliente autenticado
+- Isolamento de dados por cliente em todas as consultas
+- Log transacional: cada transição de estado do job é registrada na mesma transação do `UPDATE`
+- SQL direto (psycopg2), sem ORM, para controle explícito de transações
 
-- Performance de software  
-- Backend e construção de sistemas  
-- Princípios de design e organização de sistemas
-- Utilização integrada entre Python, FastAPI, PostgreSQL e Docker
-
----
-
-### 🤝 Aberto a colaborar
-
-- Refatoração e debugging de código  
-- Desenvolvimento backend  
-- Sistemas com foco em clareza e manutenção
+**Próximos passos:** rate limiting, retry de jobs travados, testes automatizados e CI/CD.
 
 ---
 
-### Objetivo
+### Stack
 
-Busco oportunidade como **Software Engineer (Backend)**, contribuindo na construção de sistemas eficientes, código limpo e soluções escaláveis.
-
----
-
-### GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=paulo-schnaufer&show_icons=true&theme=gruvbox&hide=issues&hide_title=true)
-
-### Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-schnaufer&layout=compact&theme=gruvbox)
+**Backend:** Python · FastAPI · PostgreSQL · Odoo
+**Infra e ferramentas:** Docker · Git · Linux · Bash · DBeaver
+**Fundamentos:** estruturas de dados e algoritmos · complexidade (big-O)
+**Idiomas:** português (nativo) · inglês (fluente)
 
 ---
 
-### 📫 Contato
+### Contato
 
-[LinkedIn](https://www.linkedin.com/in/paulo-schnaufer)  
-Email: pauloschnaufer@gmail.com
+[LinkedIn](https://www.linkedin.com/in/paulo-schnaufer) · pauloschnaufer@gmail.com
