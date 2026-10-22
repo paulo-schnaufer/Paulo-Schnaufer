@@ -31,10 +31,10 @@ API de fila de jobs em **FastAPI + PostgreSQL + Docker**, com worker em processo
 
 ### Stack
 
-**Backend:** Python · FastAPI · PostgreSQL · Odoo
-**Infra e ferramentas:** Docker · Git · Linux · Bash · DBeaver
-**Fundamentos:** estruturas de dados e algoritmos · complexidade (big-O)
-**Idiomas:** português (nativo) · inglês (fluente)
+- **Backend:** Python · FastAPI · PostgreSQL · Odoo
+- **Infra e ferramentas:** Docker · Git · Linux · Bash · DBeaver
+- **Fundamentos:** estruturas de dados e algoritmos · complexidade (big-O)
+- **Idiomas:** português (nativo) · inglês (fluente)
 
 ---
 
