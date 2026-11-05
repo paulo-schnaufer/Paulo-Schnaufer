@@ -1,43 +1,53 @@
+**English** · [Português](https://github.com/paulo-schnaufer/paulo-schnaufer/blob/main/README.pt-BR.md)
+
 # Paulo Schnaufer
 
-**Desenvolvedor de Sistemas · Backend (Python, PostgreSQL, Odoo)**
-Ciência da Computação na UEM (6º de 8 períodos)
+**Software Developer · Backend (Python, PostgreSQL, Odoo)**  
+Computer Science student at UEM (expected graduation: December 2027)
 
-Me interesso por entender como decisões de implementação mudam o comportamento de um sistema: desempenho, concorrência e escalabilidade.
-
----
-
-### Atualmente
-
-- **Have Consultoria**: desenvolvimento em Python sobre Odoo e PostgreSQL (remoto)
-- **Iniciação científica (PIBIC/CNPq e Fundação Araucária)**: extração e transformação de dados em SQL sobre mais de 2.000 escolas públicas, com saída padronizada em XML para análise
+I'm interested in how implementation decisions change a system's behavior: performance, concurrency, and scalability.
 
 ---
 
-### Projeto em destaque
+### Currently
 
-#### [job-queue-api](https://github.com/paulo-schnaufer/job-queue-api) · [deploy](https://job-queue-api-wcex.onrender.com)
+- **Have Consultoria:** developing Python systems on Odoo and PostgreSQL (remote)
+- **Undergraduate research (PIBIC/CNPq and Fundação Araucária):** working with data from more than 2,000 public schools and converting real timetabling data to the XHSTT XML standard
 
-API de fila de jobs em **FastAPI + PostgreSQL + Docker**, com worker em processo separado.
+---
 
-- Autenticação por API key, com `client_id` vindo apenas do cliente autenticado
-- Isolamento de dados por cliente em todas as consultas
-- Log transacional: cada transição de estado do job é registrada na mesma transação do `UPDATE`
-- SQL direto (psycopg2), sem ORM, para controle explícito de transações
+### Featured projects
 
-**Próximos passos:** rate limiting, retry de jobs travados, testes automatizados e CI/CD.
+#### [job-queue-api](https://github.com/paulo-schnaufer/job-queue-api) · [live demo](https://job-queue-api-wcex.onrender.com)
+
+Job queue API built with **FastAPI, PostgreSQL, and Docker**, with a worker running in a separate process.
+
+- API key authentication, with `client_id` derived only from the authenticated client
+- Per-client data isolation in all queries
+- Transactional logging: each job state transition is recorded in the same transaction as its `UPDATE`
+- Direct SQL (psycopg2), without an ORM, for explicit transaction control
+
+**Next steps:** rate limiting, retries for stuck jobs, automated tests, and CI/CD.
+
+#### School timetabling data pipeline
+
+Automated pipeline that converts real data from the SIGAH-UEM system to the XHSTT XML standard.
+
+- Generated 3,421 instances with no manual intervention
+- Validated 3,106 instances (90.8%) with HSEval
+- Traced the 315 rejected instances to source data issues
 
 ---
 
 ### Stack
 
-- **Backend:** Python · FastAPI · PostgreSQL · Odoo
-- **Infra e ferramentas:** Docker · Git · Linux · Bash · DBeaver
-- **Fundamentos:** estruturas de dados e algoritmos · complexidade (big-O)
-- **Idiomas:** português (nativo) · inglês (fluente)
+- **Backend:** Python · FastAPI · PostgreSQL · REST APIs · Odoo
+- **Infrastructure and tools:** Docker · Git · Linux · Bash · DBeaver
+- **Fundamentals:** data structures and algorithms · complexity (Big-O)
+- **Languages:** Portuguese (native) · English (fluent)
 
 ---
 
-### Contato
+### Contact
 
 [LinkedIn](https://www.linkedin.com/in/paulo-schnaufer) · pauloschnaufer@gmail.com
